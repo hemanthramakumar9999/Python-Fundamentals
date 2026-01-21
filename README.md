@@ -1,2 +1,2 @@
 # Python-Fundamentals
-The repositor can contains Fundamental Concepts
+The repositor contains Fundamental Concepts
